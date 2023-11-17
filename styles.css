@@ -11,13 +11,13 @@ body {
 
 .p1 {
     text-align: justify;
-    font-size: 20px;
+    font-size: 40px;
     color:rgb(98, 91, 91);
 }
 
 .p2 {
     text-align: justify;
-    font-size: 20px;
+    font-size: 40px;
     color:rgb(215, 211, 211);
 }
 
@@ -28,7 +28,7 @@ body {
 
 #titulo2 {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     color:rgb(107, 95, 95);}
 
 .ul{
@@ -36,7 +36,7 @@ body {
     vertical-align: top;
     width: 20%;
     margin-right: 15%;
-    font-size: 20px;
+    font-size: 40px;
 }
 
 #img2{
