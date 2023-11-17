@@ -12,7 +12,7 @@ body {
 .p1 {
     text-align: justify;
     font-size: 20px;
-    color:black;
+    color:rgb(98, 91, 91);
 }
 
 .p2 {
@@ -29,7 +29,7 @@ body {
 #titulo2 {
     text-align: center;
     font-size: 30px;
-    color:black;}
+    color:rgb(107, 95, 95);}
 
 .ul{
     display: inline-block;
